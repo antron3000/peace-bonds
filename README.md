@@ -1,12 +1,12 @@
-# RarePizzas
-For Laszlo!
+# Peace Bonds
+
 
 # Instructions
 
 - Clone Repository
 
 ```
-git clone https://github.com/snackman/RarePizzas.git && cd PeaceBonds
+git clone https://github.com/antron3000/peace-bonds && cd PeaceBonds
 ```
 - Install dependencies
 
